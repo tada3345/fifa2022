@@ -1,0 +1,9 @@
+POST http://api.cup2022.ir/api/v1/user
+Content-Type:application/json
+
+{
+"name" : "Tadakuni Yasuda",
+"email": "tada3345@gmail.com",
+"password": "123456789",
+"passwordConfirm" : "123456789"
+}
